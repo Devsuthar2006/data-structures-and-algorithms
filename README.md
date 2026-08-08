@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1920-build-array-from-permutation) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
