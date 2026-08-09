@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1480-running-sum-of-1d-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1920-build-array-from-permutation) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 <!---LeetCode Topics End-->
