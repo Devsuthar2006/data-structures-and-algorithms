@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1920-build-array-from-permutation) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
