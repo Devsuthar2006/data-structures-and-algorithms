@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 ## Minimax
 |  |
 | ------- |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
