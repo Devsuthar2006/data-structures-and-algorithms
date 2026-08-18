@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1920-build-array-from-permutation) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
