@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0009-palindrome-number) |
 | [1510-stone-game-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1510-stone-game-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
