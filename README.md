@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0219-contains-duplicate-ii](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 ## Minimax
 |  |
@@ -118,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
