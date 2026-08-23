@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -139,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
