@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0219-contains-duplicate-ii](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0704-binary-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
