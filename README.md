@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [1510-stone-game-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1510-stone-game-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0283-move-zeroes) |
 ## Sorting
