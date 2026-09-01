@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0704-binary-search) |
 | [1386-cinema-seat-allocation](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1386-cinema-seat-allocation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1510-stone-game-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Minimax
 |  |
