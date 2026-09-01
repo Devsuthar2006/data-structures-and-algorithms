@@ -1,112 +1,99 @@
-import java.util.*;
-
 class Solution {
     public int minMoves(String[] classroom, int energy) {
         int m = classroom.length;
         int n = classroom[0].length();
 
-        int[][] litterId = new int[m][n];
+        int[][] id = new int[m][n];
 
-        for (int i = 0; i < m; i++) {
-            Arrays.fill(litterId[i], -1);
+        for (int r = 0; r < m; r++) {
+            java.util.Arrays.fill(id[r], -1);
         }
 
-        int sr = 0;
-        int sc = 0;
-        int litterCount = 0;
+        int k = 0;
+        int sr = 0, sc = 0;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                char ch = classroom[i].charAt(j);
-
-                if (ch == 'S') {
-                    sr = i;
-                    sc = j;
-                } else if (ch == 'L') {
-                    litterId[i][j] = litterCount++;
+        for (int r = 0; r < m; r++) {
+            for (int c = 0; c < n; c++) {
+                if (classroom[r].charAt(c) == 'S') {
+                    sr = r;
+                    sc = c;
+                } else if (classroom[r].charAt(c) == 'L') {
+                    id[r][c] = k++;
                 }
             }
         }
 
-        if (litterCount == 0) {
-            return 0;
+        if (k == 0) return 0;
+
+        int totalMask = (1 << k) - 1;
+
+        int[][][] best = new int[m][n][1 << k];
+
+        for (int r = 0; r < m; r++) {
+            for (int c = 0; c < n; c++) {
+                java.util.Arrays.fill(best[r][c], -1);
+            }
         }
 
-        int totalMasks = 1 << litterCount;
+        class State {
+            int r, c, mask, e, moves;
 
-        boolean[][][][] visited =
-            new boolean[m][n][energy + 1][totalMasks];
+            State(int r, int c, int mask, int e, int moves) {
+                this.r = r;
+                this.c = c;
+                this.mask = mask;
+                this.e = e;
+                this.moves = moves;
+            }
+        }
 
-        Queue<int[]> queue = new LinkedList<>();
+        java.util.ArrayDeque<State> queue = new java.util.ArrayDeque<>();
 
-        queue.offer(new int[]{sr, sc, energy, 0});
-
-        visited[sr][sc][energy][0] = true;
+        best[sr][sc][0] = energy;
+        queue.offer(new State(sr, sc, 0, energy, 0));
 
         int[] dr = {-1, 1, 0, 0};
         int[] dc = {0, 0, -1, 1};
 
-        int moves = 0;
-
         while (!queue.isEmpty()) {
-            int size = queue.size();
+            State cur = queue.poll();
 
-            while (size-- > 0) {
-                int[] state = queue.poll();
+            for (int d = 0; d < 4; d++) {
+                int nr = cur.r + dr[d];
+                int nc = cur.c + dc[d];
 
-                int r = state[0];
-                int c = state[1];
-                int currentEnergy = state[2];
-                int mask = state[3];
-
-                if (mask == totalMasks - 1) {
-                    return moves;
-                }
-
-                if (currentEnergy == 0) {
+                if (nr < 0 || nr >= m || nc < 0 || nc >= n)
                     continue;
+
+                if (classroom[nr].charAt(nc) == 'X')
+                    continue;
+
+                int ne = cur.e - 1;
+
+                if (ne < 0)
+                    continue;
+
+                int nmask = cur.mask;
+
+                if (classroom[nr].charAt(nc) == 'R') {
+                    ne = energy;
                 }
 
-                for (int k = 0; k < 4; k++) {
-                    int nr = r + dr[k];
-                    int nc = c + dc[k];
-
-                    if (nr < 0 || nr >= m ||
-                        nc < 0 || nc >= n) {
-                        continue;
-                    }
-
-                    if (classroom[nr].charAt(nc) == 'X') {
-                        continue;
-                    }
-
-                    int newEnergy = currentEnergy - 1;
-
-                    if (classroom[nr].charAt(nc) == 'R') {
-                        newEnergy = energy;
-                    }
-
-                    int newMask = mask;
-
-                    if (classroom[nr].charAt(nc) == 'L') {
-                        int id = litterId[nr][nc];
-                        newMask |= (1 << id);
-                    }
-
-                    if (!visited[nr][nc][newEnergy][newMask]) {
-                        visited[nr][nc][newEnergy][newMask] = true;
-
-                        queue.offer(new int[]{
-                            nr,
-                            nc,
-                            newEnergy,
-                            newMask
-                        });
-                    }
+                if (classroom[nr].charAt(nc) == 'L') {
+                    nmask |= (1 << id[nr][nc]);
                 }
+
+                if (nmask == totalMask) {
+                    return cur.moves + 1;
+                }
+
+                if (ne <= best[nr][nc][nmask])
+                    continue;
+
+                best[nr][nc][nmask] = ne;
+
+                queue.offer(new State(nr, nc, nmask, ne, cur.moves + 1));
             }
-
-            moves++;
         }
 
         return -1;
