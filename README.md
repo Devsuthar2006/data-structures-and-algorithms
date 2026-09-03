@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/1510-stone-game-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Devsuthar2006/data-structures-and-algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
